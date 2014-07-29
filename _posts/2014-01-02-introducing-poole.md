@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Hello
-permalink: /:title
 ---
 
 *The
