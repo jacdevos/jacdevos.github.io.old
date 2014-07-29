@@ -6,8 +6,8 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Blog of Jacques de Vos
-tagline:          My thoughts and observations, mainly dev related
+title:            Jacques de Vos
+tagline:          Some thoughts and observations, mainly dev related
 url:              http://nReality.com
 paginate:         5
 baseurl:          /
