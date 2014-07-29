@@ -1,0 +1,22 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Blog of Jacques de Vos
+tagline:          My thoughts and observations, mainly dev related
+url:              http://nReality.com
+paginate:         5
+baseurl:          /
+author:
+  name:           Jacques de Vos
+  url:            https://twitter.com/jacdevos
+  email:          jacques@nreality.com
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/jacdevos/jacdevos.github.io
