@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Origins: where bugs, loops and patches come from
+title: The origin of bug, loops and patch
 ---
+Library, bug, patch, loop - these words have been part of programmer lingo for decades, and on my recent trip to the US east coast I stumbled accross their orgin: 
 
-*The
------
-Library, bug, patch, loop - these words have been part of programmer lingo for decades, and on my recent trip to the US east coast I stumbled accross their orgin: [The Harvard Mark I](http://en.wikipedia.org/wiki/Harvard_Mark_I):
+[The Harvard Mark I](http://en.wikipedia.org/wiki/Harvard_Mark_I):
+
 --add picture
 
 This amazing machine was one of the first programmable computers, but I'll tell you more about this beauty at the end of the post.
