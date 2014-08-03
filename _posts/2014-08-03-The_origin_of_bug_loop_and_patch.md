@@ -5,25 +5,25 @@ title: The origin of bug, loop and patch
 
 Bug, loop and patch - these words have been part of programmer lingo for decades, and on my recent trip to the US east coast I stumbled accross their orgin: 
 
-[The Harvard Mark I](http://en.wikipedia.org/wiki/Harvard_Mark_I) aka the Automatic Sequence Controlled Calculator:
+The [Harvard Mark I](http://en.wikipedia.org/wiki/Harvard_Mark_I) aka the Automatic Sequence Controlled Calculator!
 
 ![The Harvard Mark I]({{ site.url }}/public/marki_and_me.jpg)
 
-This amazing machine was one of the first programmable computers, but I'll tell you more about this beauty at the end of the post.
+This amazing machine was one of the first programmable computers. I'll tell you more about this beauty at the end of the post.
 
-## The Loop
+## "Loop"
 
 ![The Harvard Mark I Loop]({{ site.url }}/public/marki_loop.JPG)
 
-The "program" is a long paper tape with holes punched in and runs in this loop. Conditional branching is not supported (no gotos, jumps); you just have one long "while (true)".
+The actual loop. The "program" is a long paper tape with holes punched in and runs in this loop. Conditional branching is not supported (no gotos, jumps); you just have one long "while (true)".
 
-## The Patch
+## "Patch"
 
 ![The Harvard Mark I Loop]({{ site.url }}/public/marki_patch.JPG)
 
-A correction is made by literally patching a piece of the tape and punching new holes in. Fix your code with duct tape!
+An actual patch. A correction is made by literally patching a piece of the tape and punching new holes in. Fix your code with duct tape!
 
-## The Bug
+## "Bug"
 
 
 ![The Harvard Mark I Loop]({{ site.url }}/public/marki_bug.JPG)
