@@ -7,7 +7,7 @@ Bug, loop and patch - these words have been part of programmer lingo for decades
 
 [The Harvard Mark I](http://en.wikipedia.org/wiki/Harvard_Mark_I):
 
---add picture
+![The Harvard Mark I]({{ site.url }}/Public/favicon.png)
 
 This amazing machine was one of the first programmable computers, but I'll tell you more about this beauty at the end of the post.
 
@@ -33,3 +33,4 @@ As promised, here are more tidbits I found interesting:
 
 
 {% include twitter_include.html %}
+
