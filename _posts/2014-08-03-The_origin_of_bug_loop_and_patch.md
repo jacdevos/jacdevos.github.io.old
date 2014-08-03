@@ -5,39 +5,41 @@ title: The origin of bug, loop and patch
 
 Bug, loop and patch - these words have been part of programmer lingo for decades, and on my recent trip to the US east coast I stumbled accross their orgin: 
 
-[The Harvard Mark I](http://en.wikipedia.org/wiki/Harvard_Mark_I) aka the Automatic Sequence Controlled Calculator:
+The [Harvard Mark I](http://en.wikipedia.org/wiki/Harvard_Mark_I) aka Automatic Sequence Controlled Calculator!
 
 ![The Harvard Mark I]({{ site.url }}/public/marki_and_me.jpg)
 
-This amazing machine was one of the first programmable computers, but I'll tell you more about this beauty at the end of the post.
+This amazing machine was one of the first programmable computers. I'll tell you more about this beauty at the end of the post.
 
-## The Loop
+## "Loop"
 
-![The Harvard Mark I Loop]({{ site.url }}/public/marki_loop.jpg)
+![The Harvard Mark I Loop]({{ site.url }}/public/marki_loop.JPG)
 
-The "program" is a long paper tape with holes punched in and runs in this loop. Conditional branching is not supported (no gotos, jumps); you just have one long "while (true)".
+The actual mechanical loop. The *program* is a long paper tape with holes punched in and runs in this loop. Conditional branching is not supported (no gotos, jumps); you just have one long *while (true)*.
 
-## The Patch
+## "Patch"
 
-![The Harvard Mark I Loop]({{ site.url }}/public/marki_patch.jpg)
+![The Harvard Mark I Loop]({{ site.url }}/public/marki_patch.JPG)
 
-A correction is made by literally patching a piece of the tape and punching new holes in. Fix your code with duct tape!
+An actual patch. A correction is made by literally patching a piece of the tape and punching new holes in. Fix your code with duct tape!
 
-## The Bug
+## "Bug"
 
+![The Harvard Mark I Loop]({{ site.url }}/public/marki_bug.JPG)
 
-![The Harvard Mark I Loop]({{ site.url }}/public/marki_bug.jpg)
+The classic! This "bug" was found on a Mark II mechanical component, so not really a program error. It must have been *working on my machine*.
 
-The classic! This "bug" was found on a Mark II mechanical component, so was not really a program error. It must have been "working on my machine".
+## More..
+Tidbits I found interesting:
 
-As promised, here are more tidbits I found interesting:
-
-* It was Steampunk! Ok, I mean it was electro-mechanical. The invetor Howard H. Aiken basically built a Babbage engine on steriods. 
+* Its started computing 70 years ago!
+* It was Steampunk! Ok, I mean it was electro-mechanical. The inventor Howard Aiken basically built a Babbage engine on steriods.
 * John Von Neumann used it to help design the atomic bomb. Seems most of our high-tech was born in that war.
-* The number system was decimal, not binary. So you could use all your fingers to code.
+* The number system was decimal, not binary. So you could use all your fingers to count.
 * It ran solidly for 15 years. Seems Moore's Law didn't apply to mechanical computers.
-* The inventor did not give attribution IBM, who funded and helped to build it. I guess they employed lots of laywers only after this incident.
+* The inventor did not give attribution IBM, who funded and helped to build it. I guess after this they started employing lots of laywers.
 
+Hope you enjoyed this discovery as much as I did.
 
 {% include twitter_include.html %}
 
