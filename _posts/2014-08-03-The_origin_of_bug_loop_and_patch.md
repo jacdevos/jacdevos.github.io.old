@@ -7,19 +7,26 @@ Bug, loop and patch - these words have been part of programmer lingo for decades
 
 [The Harvard Mark I](http://en.wikipedia.org/wiki/Harvard_Mark_I) aka the Automatic Sequence Controlled Calculator:
 
-![The Harvard Mark I]({{ site.url }}/public/meandmarki.jpg)
+![The Harvard Mark I]({{ site.url }}/public/marki_and_me.jpg)
 
 This amazing machine was one of the first programmable computers, but I'll tell you more about this beauty at the end of the post.
 
 ## The Loop
 
+![The Harvard Mark I Loop]({{ site.url }}/public/marki_loop.jpg)
+
 The "program" is a long paper tape with holes punched in and runs in this loop. Conditional branching is not supported (no gotos, jumps); you just have one long "while (true)".
 
 ## The Patch
 
+![The Harvard Mark I Loop]({{ site.url }}/public/marki_patch.jpg)
+
 A correction is made by literally patching a piece of the tape and punching new holes in. Fix your code with duct tape!
 
 ## The Bug
+
+
+![The Harvard Mark I Loop]({{ site.url }}/public/marki_bug.jpg)
 
 The classic! This "bug" was found on a Mark II mechanical component, so was not really a program error. It must have been "working on my machine".
 
