@@ -37,7 +37,7 @@ Tidbits I found interesting:
 * John Von Neumann used it to help design the atomic bomb. Seems most of our high-tech was born in that war.
 * The number system was decimal, not binary. So you could use all your fingers to count.
 * It ran solidly for 15 years. Seems Moore's Law didn't apply to mechanical computers.
-* The inventor did not give attribution IBM, who funded and helped to build it. I guess after this they starterd employing lots of laywers.
+* The inventor did not give attribution IBM, who funded and helped to build it. I guess after this they started employing lots of laywers.
 
 Hope you enjoyed this discovery as much as I did.
 
