@@ -2,6 +2,7 @@
 layout: post
 title: The origin of bug, loops and patch
 ---
+
 Library, bug, patch, loop - these words have been part of programmer lingo for decades, and on my recent trip to the US east coast I stumbled accross their orgin: 
 
 [The Harvard Mark I](http://en.wikipedia.org/wiki/Harvard_Mark_I):
