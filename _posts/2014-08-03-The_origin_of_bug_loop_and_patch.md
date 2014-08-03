@@ -30,14 +30,16 @@ An actual patch. A correction is made by literally patching a piece of the tape 
 The classic! This "bug" was found on a Mark II mechanical component, so not really a program error. It must have been *working on my machine*.
 
 ## More..
-More tidbits I found interesting:
+Tidbits I found interesting:
 
-* It was Steampunk! Ok, I mean it was electro-mechanical. The invetor Howard H. Aiken basically built a Babbage engine on steriods. 
+* Its started computing 70 years ago!
+* It was Steampunk! Ok, I mean it was electro-mechanical. The inventor Howard Aiken basically built a Babbage engine on steriods.
 * John Von Neumann used it to help design the atomic bomb. Seems most of our high-tech was born in that war.
-* The number system was decimal, not binary. So that you could use all your fingers to count?
+* The number system was decimal, not binary. So you could use all your fingers to count.
 * It ran solidly for 15 years. Seems Moore's Law didn't apply to mechanical computers.
-* The inventor did not give attribution IBM, who funded and helped to build it. I guess they employed lots of laywers only after this incident.
+* The inventor did not give attribution IBM, who funded and helped to build it. I guess after this they starterd employing lots of laywers.
 
+Hope you enjoyed this discovery as much as I did.
 
 {% include twitter_include.html %}
 
