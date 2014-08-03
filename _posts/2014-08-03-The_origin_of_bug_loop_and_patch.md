@@ -39,7 +39,7 @@ Tidbits I found interesting:
 * It ran solidly for 15 years. Seems Moore's Law didn't apply to mechanical computers.
 * The inventor did not give attribution IBM, who funded and helped to build it. I guess after this they started employing lots of laywers.
 
-Hope you enjoyed this discovery as much as I did.
+Parts of the machine is on display at the Harvard University Science Center (where I took these photos). Hope you enjoyed this discovery as much as I did.
 
 {% include twitter_include.html %}
 
