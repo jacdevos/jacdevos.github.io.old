@@ -15,7 +15,7 @@ This amazing machine was one of the first programmable computers. I'll tell you 
 
 ![The Harvard Mark I Loop]({{ site.url }}/public/marki_loop.JPG)
 
-The actual loop. The *program* is a long paper tape with holes punched in and runs in this loop. Conditional branching is not supported (no gotos, jumps); you just have one long *while (true)*.
+The actual mechanical loop. The *program* is a long paper tape with holes punched in and runs in this loop. Conditional branching is not supported (no gotos, jumps); you just have one long *while (true)*.
 
 ## "Patch"
 
