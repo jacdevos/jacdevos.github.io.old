@@ -13,20 +13,20 @@ This amazing machine was one of the first programmable computers, but I'll tell 
 
 ## The Loop
 
-![The Harvard Mark I Loop]({{ site.url }}/public/marki_loop.jpg)
+![The Harvard Mark I Loop]({{ site.url }}/public/marki_loop.JPG)
 
 The "program" is a long paper tape with holes punched in and runs in this loop. Conditional branching is not supported (no gotos, jumps); you just have one long "while (true)".
 
 ## The Patch
 
-![The Harvard Mark I Loop]({{ site.url }}/public/marki_patch.jpg)
+![The Harvard Mark I Loop]({{ site.url }}/public/marki_patch.JPG)
 
 A correction is made by literally patching a piece of the tape and punching new holes in. Fix your code with duct tape!
 
 ## The Bug
 
 
-![The Harvard Mark I Loop]({{ site.url }}/public/marki_bug.jpg)
+![The Harvard Mark I Loop]({{ site.url }}/public/marki_bug.JPG)
 
 The classic! This "bug" was found on a Mark II mechanical component, so was not really a program error. It must have been "working on my machine".
 
