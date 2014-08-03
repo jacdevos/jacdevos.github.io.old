@@ -27,13 +27,14 @@ An actual patch. A correction is made by literally patching a piece of the tape 
 
 ![The Harvard Mark I Loop]({{ site.url }}/public/marki_bug.JPG)
 
-The classic! This "bug" was found on a Mark II mechanical component, so was not really a program error. It must have been *working on my machine*.
+The classic! This "bug" was found on a Mark II mechanical component, so not really a program error. It must have been *working on my machine*.
 
-As promised, here are more tidbits I found interesting:
+## More..
+More tidbits I found interesting:
 
 * It was Steampunk! Ok, I mean it was electro-mechanical. The invetor Howard H. Aiken basically built a Babbage engine on steriods. 
 * John Von Neumann used it to help design the atomic bomb. Seems most of our high-tech was born in that war.
-* The number system was decimal, not binary. So you could use all your fingers to code.
+* The number system was decimal, not binary. So that you could use all your fingers to count?
 * It ran solidly for 15 years. Seems Moore's Law didn't apply to mechanical computers.
 * The inventor did not give attribution IBM, who funded and helped to build it. I guess they employed lots of laywers only after this incident.
 
