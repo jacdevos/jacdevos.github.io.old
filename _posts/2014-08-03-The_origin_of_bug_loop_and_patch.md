@@ -36,7 +36,7 @@ Tidbits I found interesting:
 * It was Steampunk! Ok, I mean it was electro-mechanical. The inventor Howard Aiken basically built a Babbage engine on steroids.
 * John Von Neumann used it to help design the atomic bomb. Seems most of our high-tech was born in that war.
 * The number system was decimal, not binary. So you could use all your fingers to count.
-* It ran solidly for 15 years. Seems Moore's Law didn't apply to mechanical computers.
+* It ran solidly for 15 years. Seems Moore's Law does'nt apply to mechanical computers.
 * The inventor did not give attribution IBM, who funded and built large parts of it. I guess after this IT companies started employing lots of lawyers.
 
 The machine is on display at the Harvard University Science Center (where I took these photos). Hope you enjoyed this as much as I did.
