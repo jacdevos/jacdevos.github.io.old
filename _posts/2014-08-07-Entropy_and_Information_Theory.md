@@ -1,7 +1,0 @@
----
-layout: post
-title: "Entropy"
-tags:
----
-
-Entropy is a word that is becoming used for a systems degrading, but does it have any relationship to the formal defs in Information Theory or Thermodynamics?
