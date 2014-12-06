@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Is fast typing required for developers? (how I changed my mind on this)" 
+title: "Is fast typing required for developers?" 
 tags:
 ---
+I changed my mind on this recently, and here's why.
 
 There is a sentiment that developers have to type really fast because we "type code for a living".
 
