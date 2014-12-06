@@ -20,10 +20,10 @@ But reading the great book "Thinking, Fast and Slow" by Daniel Kahneman showed m
 From this we can see that an activity like correcting a typing mistake will tap our "thinking stamina", but when typing becomes fully unconscious/automatic it will free up some space for productive problem solving. Hence, it's important that we learn to type automatically (fast is just a nice side effect of automatic).
 
 This line of thinking can be taken much further than just typing. Anything in our dev environment that is explicit and not automatic, like looking for a menu with some function, or doing an explicit compile, will waste our mental stamina. It is therefore really important to:
-1. Know your dev tools, including common shortcuts and navigation tools. Keeping it simple is a easy way to achieve this. This has a similar benefit to automatic typing.
-2. Cut out explicit tasks. First thing that comes to mind is compiling. The Ruby and other dynamic lang peeps have been doing this for years, continuously running tests in the background that shows you the impact of changes, instead of a compile, run action. Some great tools in static world, like Resharper and NCrunch helps here. Another is deploying - the whole continous delivery movement applies here. Tools like JRebel in Java world can also help.
+
+1.   Know your dev tools, including common shortcuts and navigation tools. Keeping it simple is a easy way to achieve this. This has a similar benefit to automatic typing.
+2.  Cut out explicit tasks. First thing that comes to mind is compiling. The Ruby and other dynamic lang peeps have been doing this for years, continuously running tests in the background that shows you the impact of changes, instead of a compile, run action. Some great tools in static world, like Resharper and NCrunch helps here. Another is deploying - the whole continous delivery movement applies here. Tools like JRebel in Java world can also help.
 
 In summary: as a developer, *always find ways to reduce explicit, non-automatic tasks that draw your attention*. I, for one, will take my environment and skills like typing more seriously now.
-
 
 
