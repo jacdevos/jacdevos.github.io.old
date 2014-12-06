@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Is fast typing required for a developer? I changed my mind on this"
+title: "Is fast typing required for developers? (how I changed my mind on this)" 
 tags:
 ---
 
