@@ -6,7 +6,7 @@ tags:
 
 As a software engineering coach part of my job is to help teams become more effective. To this end, it is sometimes useful to employ concepts from self-help books, but I don’t always enjoy reading these, they often stretch a few insights into endless anecdotes.
 
-The Blinkist app really helped me with this dilemma last week; I managed to cover the key insights of 40+ books in just a few days.  Good job Blinkist.
+The [Blinkist](http://www.blinkist.com) app really helped me with this dilemma last week; I managed to cover the key insights of 40+ books in just a few days.  Good job [Blinkist](http://www.blinkist.com).
 
 During this self-help binge, I noticed a few ideas being repeated in a wide variety of books, especially the more core principles. 
 
