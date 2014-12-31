@@ -7,7 +7,7 @@ permalink:        pretty
 
 # Setup
 title:            Jacques de Vos
-tagline:          Some thoughts and observations, mostly dev related
+tagline:          Some thoughts and observations, mostly on dev
 url:              http://jacdevos.github.io
 paginate:         5
 baseurl:          /
