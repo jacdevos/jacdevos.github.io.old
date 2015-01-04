@@ -8,7 +8,7 @@ As a software engineering coach part of my job is to help teams become more effe
 
 The [Blinkist](http://www.blinkist.com) app really helped me with this dilemma last week; I managed to cover the key insights of 40+ books in just a few days.  Good job [Blinkist](http://www.blinkist.com).
 
-During this self-help binge, I noticed a few ideas being repeated in a wide variety of books, especially the more core principles. 
+During this self-help binge, I noticed a few ideas being repeated in a wide variety of books, especially the more core principles.
 
 Here are a few insights that struck me as reoccurring, as well as the books they came from:
 
@@ -32,3 +32,5 @@ Here are a few insights that struck me as reoccurring, as well as the books they
 ### On finding opportunities
 *	Build and contribute to your professional network; it’s a more secure structure than a company. *The Tipping Point, Coffee, Lunch, Coffee, Never eat alone*
 *	The Internet and social media have opened up marketing for a bigger variety of products. *The Long Tail, Purple Cow*
+
+{% include twitter_include.html %}

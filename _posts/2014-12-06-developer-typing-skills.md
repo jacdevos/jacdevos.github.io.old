@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Is fast typing required for developers?" 
+title: "Is fast typing required for developers?"
 tags:
 ---
 I changed my mind on this recently, and here's why.
@@ -11,9 +11,9 @@ I've long rejected that idea, and not just because lines of code is the worst po
 
 But reading the great book "Thinking, Fast and Slow" by Daniel Kahneman showed me a flaw in my view (there's so much substance in that book, I'm sure I'll get many more insights from it).
 
-#### The insight is this: 
-* Explicit, conscious thinking (which I believe paramount to development) takes a lot of mental energy. 
-* Like physical stamina, we literally have a limited pool of mental energy. Any task that needs our conscious attention depletes our mental stamina, leaving us with less good thinking. 
+#### The insight is this:
+* Explicit, conscious thinking (which I believe paramount to development) takes a lot of mental energy.
+* Like physical stamina, we literally have a limited pool of mental energy. Any task that needs our conscious attention depletes our mental stamina, leaving us with less good thinking.
 * Unconscious, automatic processing takes less of a strain (like strolling or breathing).
 * Therefore, in order to do more good thinking (as is required in solving programming problems), we need to minimise non-automatic activities.
 
@@ -26,4 +26,4 @@ This line of thinking can be taken much further than just typing. Anything in ou
 
 In summary: as a developer, *always find ways to reduce explicit, non-automatic tasks that draw your attention*. I, for one, will take my environment and skills like typing more seriously now.
 
-
+{% include twitter_include.html %}
