@@ -11,9 +11,11 @@
          <img src="{{ site.baseurl }}public/JacquesFace.JPG" width="45" align="left" style="margin: 0px 10px 0px 0px"></img>
          <a href="{{ site.baseurl }}" title="Home">{{ site.title }}</a>
 &nbsp
+|<small style="white-space: nowrap">
 {% for page in site.pages_list %}
-|<small><a href="{{ page[1]  }}">{{ page[0] }}</a></small>
+<a href="{{ page[1]  }}">{{ page[0] }}</a>
 {% endfor %}
+</small>
 <br/>
             <small>{{ site.tagline }}</small>
 
