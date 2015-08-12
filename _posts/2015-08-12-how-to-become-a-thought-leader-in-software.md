@@ -2,7 +2,6 @@
 published: true
 ---
 
-## How to Become a Thought Leader in Software
 _**Impressions from Agile 2015**_
 
 “Am I going to be bored or enlightened?” was the question I asked before attending Agile 2015, my first international software development conference as a speaker. 
@@ -65,4 +64,3 @@ Even though a thought leader might have many interests and ideas, to be a though
 I don’t think we all have to strive to be celebrity authors, but realising that ideas live in a community, and becoming an active participant, a good citizen, in this community, makes you a thought leader and makes our industry better. 
 
 Or you can just build stuff.
-
