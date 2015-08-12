@@ -2,6 +2,7 @@
 published: true
 ---
 
+
 _**Impressions from Agile 2015**_
 
 “Am I going to be bored or enlightened?” was the question I asked before attending Agile 2015, my first international software development conference as a speaker. 
@@ -20,12 +21,15 @@ One thing is a sense of how ideas in our software industry works, how they emerg
 I drew the following conclusions:
 
 _**1.	Ideas live. They get born, live and grow in a professional community.**_
+
 This became apparent to me after speaking to a few of authors and comparing how I experienced the book versus the conversation. An idea printed in a book creates the illusion of immortality of the ideas in it. But ideas are living things in a sense: if the community rejects/forgets it, it is dead in a way (seen as false or invalid). Ideas are mortal and grow by virally replicating through professional networks.
 
 _**2.	Ideas are born from other ideas.**_
+
 The illusion of “the lone genius that figured it out, out of thin air” is often misplaced. Ideas are mostly built from other ideas, maybe a novel combination or reconfiguration. 
 
 _**3.	Ideas often have champions.**_
+
 Just because an idea is not completely novel does not mean an idea does not have a champion. There is more than often an thought leader that promotes and nurtures an idea, even gives it a name. Sometimes even takes credit for it all. I call this persona the thought leader.
 
 _Do these 3 points apply to industries outside software? I think so, but the community nature of ideas seems more pronounced in software, since software practices are still changing rapidly (less stable than say, accounting), and we have no central “authority” (there is no “Ivy League Old Boys Club” or organisation that controls which ideas get accepted)._
@@ -38,9 +42,11 @@ We had the privilege of having conversations with Jeff Patton, Michael Feathers,
 These discussions made me realise that I had some misconceptions. I learnt that a good thought leader often has the following traits:
 
 _**1.	A thought leader is a community leader**_
+
 Giving credit is like spreading seeds for an idea. All of the above people were the most generous in sharing, giving credit, giving back to both people wanting to learn and people wanting to contribute new ideas. They almost always gave credit wherever they could, and promoted other people and their ideas where they could. The persona of a generous, loved community leader emerged across the board. This surprised me. I now think that this is necessary for ideas to flourish, especially for their own ideas which they are promoting.
 
 _**2.	Practice, practice, practice what you preach. Then show results.**_
+
 Practicing your ideas, and having great case studies on how you applied your thinking to various situations is crucial to getting credibility and buy in from the professional community. You obviously have to show that it works, and understand the limitations when facing better than anyone. If you have this, your idea can quickly get traction. 
 
 Charisma can get attention, but you need to show results to be widely respected – I am surprised how many people miss this point.
@@ -48,16 +54,19 @@ Charisma can get attention, but you need to show results to be widely respected 
 There are ways to do this without being everywhere at once. For example, Martin Fowler seems to tap into the experiences of many teams in his organisation. 
 
 _**3.	Know how to receive critique and disagree respectfully**_
+
 Critique is necessary to heathy ideas. Thought leaders know how to receive, absorb and respond to critique, without getting defensive. Critique is the hammer and anvil that hardens and moulds your ideas (or breaks ones that should not be). Your arguments will grow stronger and stronger if you consider critique carefully.
 
 That said, it is often necessary to disagree with other ideas to draw distinctions and clarify your ideas. Thought leaders know how to do this well: know the pros and cons of the idea you are criticizing before jumping to conclusions. Rather defer judgement or even ignore arguments of other ideas you do not understand. Resist the temptation to be a “hater” in your critique, don’t use straw men or appeal to authority. “Hater” behaviour might get a bit of attention, but you ultimately loose respect and get alienated. Alienation means starvation of your ideas. 
 
 _**4.	Bring experience from other fields**_
+
 This point is about where good ideas come from. A lot (but not all) of the fresh, novel approaches come from applying ideas from other industries. Examples are plentiful, but most notably Lean Manufacturing, Life Coaching, Biology, Other Engineering Disciplines, Philosophy, Improvisation Acting, Industrial Design, Mathematics, Art and Music, Sci-Fi and a bunch more.
 
 Having varied experience and a balanced life with varied interests, puts you in a better position to stumble across the next big thing.
 
 _**5.	Focus on one or two ideas at a time**_
+
 Even though a thought leader might have many interests and ideas, to be a thought leader you have to be a centre of discussion on a contemporary theme, and thus have to focus on that area, at least your public interactions. You have to write and speak about it.
 
 ## Conclusion
