@@ -27,7 +27,7 @@ The illusion of “the lone genius that figured it out, out of thin air” is of
 _### 3.	Ideas often have champions._
 Just because an idea is not completely novel does not mean an idea does not have a champion. There is more than often an thought leader that promotes and nurtures an idea, even gives it a name. Sometimes even takes credit for it all. I call this persona the thought leader.
 
-Do these 3 points apply to industries outside software? I think so, but the community nature of ideas seems more pronounced in software, since software practices are still changing rapidly (less stable than say, accounting), and we have no central “authority” (there is no “Ivy League Old Boys Club” or organisation that controls which ideas get accepted).
+_Do these 3 points apply to industries outside software? I think so, but the community nature of ideas seems more pronounced in software, since software practices are still changing rapidly (less stable than say, accounting), and we have no central “authority” (there is no “Ivy League Old Boys Club” or organisation that controls which ideas get accepted)._
 
 ## How to become an industry thought leader
 The above made me think more about what makes an industry thought leader.
