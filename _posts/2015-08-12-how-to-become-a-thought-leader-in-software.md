@@ -21,13 +21,13 @@ One thing is a sense of how ideas in our software industry works, how they emerg
 
 I drew the following conclusions:
 
-_**1.	Ideas live. They get born, live and grow in a professional community.**_  
+_**1.	Ideas live. They get born, live and grow in a professional community**_  
 This became apparent to me after speaking to a few of authors and comparing how I experienced the book versus the conversation. An idea printed in a book creates the illusion of immortality of the ideas in it. But ideas are living things in a sense: if the community rejects/forgets it, it is dead in a way (seen as false or invalid). Ideas are mortal and grow by virally replicating through professional networks.
 
-_**2.	Ideas are born from other ideas.**_  
+_**2.	Ideas are born from other ideas**_  
 The illusion of “the lone genius that figured it out, out of thin air” is often misplaced. Ideas are mostly built from other ideas, maybe a novel combination or reconfiguration. 
 
-_**3.	Ideas often have champions.**_  
+_**3.	Ideas often have champions**_  
 Just because an idea is not completely novel does not mean an idea does not have a champion. There is more than often an thought leader that promotes and nurtures an idea, even gives it a name. Sometimes even takes credit for it all. I call this persona the thought leader.
 
 _Do these 3 points apply to industries outside software? I think so, but the community nature of ideas seems more pronounced in software, since software practices are still changing rapidly (less stable than say, accounting), and we have no central “authority” (there is no “Ivy League Old Boys Club” or organisation that controls which ideas get accepted)._
@@ -42,7 +42,7 @@ These discussions made me realise that I had some misconceptions. I learnt that 
 _**1.	A thought leader is a community leader**_  
 Giving credit is like spreading seeds for an idea. All of the above people were the most generous in sharing, giving credit, giving back to both people wanting to learn and people wanting to contribute new ideas. They almost always gave credit wherever they could, and promoted other people and their ideas where they could. The persona of a generous, loved community leader emerged across the board. This surprised me. I now think that this is necessary for ideas to flourish, especially for their own ideas which they are promoting.
 
-_**2.	Practice, practice, practice what you preach. Then show results.**_  
+_**2.	Practice, practice, practice what you preach. Then show results**_  
 Practicing your ideas, and having great case studies on how you applied your thinking to various situations is crucial to getting credibility and buy in from the professional community. You obviously have to show that it works, and understand the limitations when facing better than anyone. If you have this, your idea can quickly get traction. 
 
 Charisma can get attention, but you need to show results to be widely respected – I am surprised how many speakers miss this part.
