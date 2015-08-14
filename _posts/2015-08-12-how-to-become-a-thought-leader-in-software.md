@@ -69,3 +69,5 @@ Even though a thought leader might have many interests and ideas, to be a though
 I don’t think we all have to strive to be celebrity authors, but realising that ideas live in a community, and becoming an active idea participant, a good citizen, in this community, makes you a thought leader and makes our industry better. 
 
 Or you can just build stuff.
+
+_Thanks to Martin Cronje - a few of the ideas in this post was his_
