@@ -5,8 +5,8 @@ published: true
 
 
 
-_"Nothing is more powerful than an idea whose time has come." 
-- Victor Hugo_
+_**"Nothing is more powerful than an idea whose time has come."  
+- Victor Hugo**_
 
 “Am I going to be bored or enlightened?” was the question I asked before attending Agile 2015, my first international software development conference as a speaker. 
 
@@ -18,7 +18,7 @@ For a full week it did not stop. Topics ranged from 21st century democratic orga
 
 That’s great. What did I take out of all this?
 
-## How ideas in our industry works
+### How ideas in our industry works
 One thing is a sense of how ideas in our software industry works, how they emerge, spread and get accepted. For example, how did DevOps get widely accepted and become de-facto? 
 
 I drew the following conclusions:
@@ -34,7 +34,7 @@ Just because an idea is not completely novel does not mean an idea does not have
 
 _Do these 3 points apply to industries outside software? I think so, but the community nature of ideas seems more pronounced in software, since software practices are still changing rapidly (less stable than say, accounting), and we have no central “authority” (there is no “Ivy League Old Boys Club” or organisation that controls which ideas get accepted)._
 
-## How to become an industry thought leader
+### How to become an industry thought leader
 The above made me think more about what makes an industry thought leader.
 
 We had the privilege of having conversations with Jeff Patton, Michael Feathers, Diana Larson, Ron Jeffreys, Dave Hussman, Chet Hendrickson and other well known coaches and authors – people I see as thought leaders in our industry (thanks Declan Whelan for making a few great conversations happen).
@@ -64,7 +64,7 @@ Having varied experience and a balanced life with varied interests, puts you in 
 _**5.	Focus on one or two ideas at a time**_  
 Even though a thought leader might have many interests and ideas, to be a thought leader you have to be a centre of discussion on a contemporary theme, and thus have to focus on that area, at least your public interactions. You have to write and speak about it.
 
-## Conclusion
+### Conclusion
 I don’t think we all have to strive to be celebrity authors, but realising that ideas live in a community, and becoming an active idea participant, a good citizen, in this community, makes you a thought leader and makes our industry better. 
 
 Or you can just build stuff.
