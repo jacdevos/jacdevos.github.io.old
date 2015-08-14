@@ -4,6 +4,7 @@ published: true
 
 
 
+
 _**"Nothing is more powerful than an idea whose time has come."  
 - Victor Hugo**_
 
@@ -67,5 +68,7 @@ Even though a thought leader might have many interests and ideas, to be a though
 I don’t think we all have to strive to be celebrity authors, but realising that ideas live in a community, and becoming an active idea participant, a good citizen, in this community, makes you a thought leader and makes our industry better. 
 
 Or you can just build stuff.
+
+{% include twitter_include.html %}
 
 _Thanks to Martin Cronje (a few of the ideas in this post was his), and Declan Whelan (who made sure good conversations happened and ideas spread)_
