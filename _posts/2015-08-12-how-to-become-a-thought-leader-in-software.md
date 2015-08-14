@@ -23,7 +23,7 @@ One thing is a sense of how ideas in our software industry works, how they emerg
 
 I drew the following conclusions:
 
-_**1.	Ideas live. They get born, live and grow in a professional community**_  
+_**1.	Ideas get born, live and grow in a professional community**_  
 This became apparent to me after speaking to a few of authors and comparing how I experienced the book versus the conversation. An idea printed in a book creates the illusion of immortality of the ideas in it. But ideas are living things in a sense: if the community rejects/forgets it, it is dead in a way (seen as false or invalid). Ideas are mortal and grow by virally replicating through professional networks.
 
 _**2.	Ideas are born from other ideas**_  
