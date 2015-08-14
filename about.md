@@ -5,6 +5,7 @@ published: true
 ---
 
 
+
 <p class="message">
 
 <strong>Building valuable software is a multifaceted hydra; my professional goal is to slay it.</strong>
@@ -18,4 +19,10 @@ Lately my focus has moved to coaching software engineering teams and businesses 
 I also actively develop mobile-focussed software products, incorporating all platforms.
 <br/><br/>
 "Software Is Eating The World" - Marc Andreessen
+
+<a href="https://za.linkedin.com/pub/jacques-de-vos/2/382/b8">
+      
+          <img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_viewmy_160x25.png" width="160" height="25" border="0" alt="View Jacques De Vos's profile on LinkedIn">
+        
+    </a>
 </p>
