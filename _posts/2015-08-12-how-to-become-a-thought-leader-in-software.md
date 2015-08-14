@@ -4,8 +4,6 @@ published: true
 
 
 
-
-
 _**"Nothing is more powerful than an idea whose time has come."  
 - Victor Hugo**_
 
