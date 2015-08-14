@@ -64,6 +64,6 @@ _**5.	Focus on one or two ideas at a time**_
 Even though a thought leader might have many interests and ideas, to be a thought leader you have to be a centre of discussion on a contemporary theme, and thus have to focus on that area, at least your public interactions. You have to write and speak about it.
 
 ## Conclusion
-I don’t think we all have to strive to be celebrity authors, but realising that ideas live in a community, and becoming an active participant, a good citizen, in this community, makes you a thought leader and makes our industry better. 
+I don’t think we all have to strive to be celebrity authors, but realising that ideas live in a community, and becoming an active idea participant, a good citizen, in this community, makes you a thought leader and makes our industry better. 
 
 Or you can just build stuff.
