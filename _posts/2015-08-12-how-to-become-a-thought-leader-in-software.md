@@ -5,6 +5,7 @@ published: true
 
 
 
+
 _**"Nothing is more powerful than an idea whose time has come."  
 - Victor Hugo**_
 
@@ -18,7 +19,7 @@ For a full week it did not stop. Topics ranged from 21st century democratic orga
 
 That’s great. What did I take out of all this?
 
-### How ideas in our industry works
+### How ideas in our industry work
 One thing is a sense of how ideas in our software industry works, how they emerge, spread and get accepted. For example, how did DevOps get widely accepted and become de-facto? 
 
 I drew the following conclusions:
