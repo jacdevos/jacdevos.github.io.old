@@ -4,13 +4,14 @@ published: true
 
 
 
+
 _**Impressions from Agile 2015**_
 
 “Am I going to be bored or enlightened?” was the question I asked before attending Agile 2015, my first international software development conference as a speaker. 
 
 I was enlightened. Almost overwhelmed. This is why.
 
-I started conversing with people at the Agile Coach Camp open spaces: agile coaches, industry celebrities, hard core programmers, change management consultants, authors, community builders, philosophers, eccentrics. A diverse bunch, but all open to debate, share, learn and apply. I’ve never experienced anything like it. 
+I started conversing with people at the Agile Coach Camp open spaces: agile coaches, industry celebrities, hardcore programmers, change management consultants, authors, community builders, philosophers, eccentrics. A diverse bunch, but all open to debate, share, learn and apply. I’ve never experienced anything like it. 
 
 For a full week it did not stop. Topics ranged from 21st century democratic organisations to games to error handling code. The scheduled talks were good, but the informal conversations and debate were much better.
 
