@@ -5,7 +5,8 @@ published: true
 
 
 
-_**Impressions from Agile 2015**_
+_"Nothing is more powerful than an idea whose time has come." 
+- Victor Hugo_
 
 “Am I going to be bored or enlightened?” was the question I asked before attending Agile 2015, my first international software development conference as a speaker. 
 
