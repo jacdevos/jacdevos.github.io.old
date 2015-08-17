@@ -2,9 +2,6 @@
 published: true
 ---
 
-
-
-
 _**"Nothing is more powerful than an idea whose time has come."  
 - Victor Hugo**_
 
@@ -37,7 +34,7 @@ _Do these 3 points apply to industries outside software? I think so, but the com
 ### How to become an industry thought leader
 The above made me think more about what makes an industry thought leader.
 
-We had the privilege of having conversations with Jeff Patton, Michael Feathers, Diana Larson, Ron Jeffreys, Dave Hussman, Chet Hendrickson and other well known coaches and authors – people I see as thought leaders in our industry (thanks Declan Whelan for making a few great conversations happen).
+We had the privilege of having conversations with (in no particular order) [Jeff Patton](https://twitter.com/jeffpatton), [Michael Feathers](https://twitter.com/mfeathers), [Diana Larson](https://twitter.com/DianaOfPortland), [Ron Jeffreys](https://twitter.com/RonJeffries), [Dave Hussman](https://twitter.com/davidhussman), [Chet Hendrickson](https://twitter.com/chethendrickson) and other well known coaches and authors – people I see as thought leaders in our industry (thanks Declan Whelan for making a few great conversations happen).
 
 These discussions made me realise that I had some misconceptions. I learnt that a good thought leader often has the following traits:
 
