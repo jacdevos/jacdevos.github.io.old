@@ -10,7 +10,7 @@ title:            Jacques de Vos
 tagline:          Experiments and experiences in software.
 url:              http://jacques.nreality.com
 paginate:         10
-baseurl:          http://jacques.nreality.com
+baseurl:          /
 author:
   name:           Jacques de Vos
   url:            https://twitter.com/jacdevos
