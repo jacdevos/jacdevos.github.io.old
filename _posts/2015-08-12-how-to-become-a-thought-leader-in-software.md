@@ -1,7 +1,8 @@
 ---
 published: true
+layout: post
+title: How to become a thought leader in software
 ---
-
 _**"Nothing is more powerful than an idea whose time has come."  
 - Victor Hugo**_
 
